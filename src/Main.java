@@ -3,6 +3,8 @@ public class Main {
         // Variables and simulated input
         double productCost = 169.99;
         double shippingCost = 0;
+        // Initial prompt from program
+        System.out.println("Please enter the price of your item(s):");
         // if productCost <= 100 then
         if(productCost <= 100) {
             shippingCost = (double) (productCost * .02);
