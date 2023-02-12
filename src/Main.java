@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Variables and simulated input
-        double productCost = 69.99;
+        double productCost = 169.99;
         double shippingCost = 0;
         // if productCost <= 100 then
         if(productCost <= 100) {
